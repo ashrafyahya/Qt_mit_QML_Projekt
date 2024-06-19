@@ -1,6 +1,5 @@
 /*! \file   Sm_header.h
  *  \author Yahya, Ashraf (AY)
- *          Omar, Ali (AO)
  *  \version: Last one
 */
 #ifndef STATEMACHINE_HEADER_H

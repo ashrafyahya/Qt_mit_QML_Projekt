@@ -1,6 +1,5 @@
 /*! \file_name smcehicleinterface_header.h
  * \author Yahya, Ashraf (AY)
- *          Omar, Ali (AO)
  * \version: Last one
 */
 #ifndef SMVEHICLEINTERFACE_HEADER_H

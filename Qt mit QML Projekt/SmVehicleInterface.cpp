@@ -3,7 +3,6 @@ Anleitung: In dieser Datei sollten sie nichts anpassen muessen.
 Inhalt: siehe Beschreibung im Header
 
  * \author Yahya, Ashraf (AY)
- *         Omar, Ali (AO)
  * \version: Last one
 */
 #include<QObject>

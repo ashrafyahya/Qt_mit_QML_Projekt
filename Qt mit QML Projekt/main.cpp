@@ -1,6 +1,5 @@
 /*! \file_name main.cpp
  * \author  Yahya, Ashraf (AY)
- *          Omar, Ali (AO)
  * \version: Last one
 */
 #include <QGuiApplication>
