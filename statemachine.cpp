@@ -1,5 +1,6 @@
 /*! \file_name statemachine.cpp
  * \author Yahya, Ashraf (AY)
+ *          Omar, Ali (AO)
  * \version: Last one
 */
 #include<iostream>
